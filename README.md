@@ -1,6 +1,5 @@
 ### Introducing Myself 🙋‍♂️
 
-Hi! My name is Masud and I'm an aspiring data analyst. Having previously worked as a support engineer, I was introduced to data analytics and was intrigued. I've always had a fascination for numbers and the way questions can be answered and stories told based on them. 
-I've since been self learning SQL, Tableau and Excel which I believe to be key skills for a data analyst.
-You can find some of the work i've done in the repository titled 'DataAnalysis'.
-Thanks for taking the time to read this and I hope you enjoy my work :)
+Hi there! I'm Masud, a self-taught data analyst from London. With a background in IT support, I transitioned to data in late 2022 and have been teaching myself SQL, Excel and Tableau ever since.
+
+In my portfolio, you can find my [projects Folder] (https://github.com/MasudIbrahim/DataAnalysis) containing a showcase of my skills.
