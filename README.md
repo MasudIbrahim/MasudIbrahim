@@ -10,7 +10,7 @@ I have documented some of my work in the other repositories found on my profile
 -Dashboard development and reporting<br> 
 -Exploratory data analysis<br>
 #### 🛠️ My Tools
--Databases: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Excel<br> 
+-Databases: SQL (PostgreSQL, MySQL, SQL Server) Excel<br> 
 -Data visualisation: Tableau
 
 #### 🙌🏻 Connect with Me
