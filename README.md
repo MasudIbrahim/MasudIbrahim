@@ -11,7 +11,7 @@ I have documented some of my work in the other repositories found on my profile
 -Exploratory data analysis<br>
 #### 🛠️ My Tools
 -Databases: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Excel<br> 
--Visualisation: Tableau
+-Data visualisation: Tableau
 
 #### 🙌🏻 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/masud-ibrahim-5716b81b1/)
