@@ -2,7 +2,7 @@
 
 Hi there! I'm Masud, a self-taught data analyst from London. With a background in IT support, I transitioned to data analysis in late 2022 and have been teaching myself SQL, Excel and Tableau ever since.
 
-I have documented some of my work in the other repositories found on my profile
+I have documented some of my work in the repositories found on my profile
 
 #### 💡 My Skills
 -Data preparation, quality assurance, and analysis<br>
