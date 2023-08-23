@@ -1,16 +1,15 @@
-### Hi there 👋
+# Introducing Myself 🙋‍♂️
 
-<!--
-**MasudIbrahim/MasudIbrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Masud! With a background in technical support, I've been upskilling to switch lanes into cybersecurity and this is a documentation of the journey.<br>
 
-Here are some ideas to get you started:
+### 💡 My Skills
+- Networking<br>
+- Operating systems (MacOS, Windows, Linux) <br>
+- Security fundamentals <br>
+  
+### 🛠️ My Tools
+-<br>
+### 🙌🏻 Connect with Me
+[Email](mailto:mibrahim11@hotmail.co.uk)<br>
+[LinkedIn](https://www.linkedin.com/in/masud-ibrahim-5716b81b1/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
